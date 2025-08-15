@@ -13,7 +13,7 @@
 - :technologist: Me encanta usar Software como solución para cada `Problema`.
 - :student: Actualmente estoy aprendiendo `Data Analytics`, `Data Science` y `software engineering`.
 - :nerd_face: Siempre al `aprendizaje continuo e interesado en nuevas tecnologias `.
-- :thinking: Actualmente estoy abierto a una nueva `Oportunidad de Trabajo`, este es [Mi CURRÍCULUM]().
+- :thinking: Actualmente estoy abierto a una nueva `Oportunidad de Trabajo`
 <br>
 
 
