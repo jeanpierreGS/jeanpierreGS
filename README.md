@@ -11,7 +11,7 @@
 
 - :school: Yo soy un `Estudiante` de `9no Ciclo` en la [Facultad de Ingenieria de Sistemas Computacionales](https://www.upn.edu.pe/carrera/ingenieria-de-sistemas-computacionales) de la [Universidad Privada del Norte](https://www.upn.edu.pe/sobre-upn).
 - :technologist: Me encanta usar Software como solución para cada `Problema`.
-- :student: Actualmente estoy fortaleciendo mi aprendizaje en `Data Analytics`, `Data Science` y `software engineering`.
+- :student: Actualmente estoy fortaleciendo mi aprendizaje en `Data Analytics`, `Data Science` y `Software Engineering`.
 - :nerd_face: Siempre al `aprendizaje continuo e interesado en nuevas tecnologias`.
 - :thinking: Actualmente estoy abierto a una nueva `Oportunidad de Trabajo` como `Practicante Preprofesional`.
 <br>
