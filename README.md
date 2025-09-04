@@ -131,9 +131,8 @@
 
 <!-- Frase que me inspira -->
 <p align="center">
-  <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming&quote=Some%20people%20like%20what%20you%20do%2C%20some%20people%20hate%20what%20you%20do%2C%20but%20most%20people%20simply%20don%27t%20give%20a%20damn.">
+  <img alt="Cita Bukowski" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Algunas%20personas%20aprecian%20lo%20que%20haces%2C%20otras%20lo%20odian…%20pero%20la%20mayoría%20simplemente%20no%20le%20interesa.&author=Polarcito">
 </p>
-
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Mis Estadisticas en GitHub
