@@ -135,12 +135,15 @@
 </p>
 
 
-## GitHub Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jean%20Pierre%20Gamarra%20Salvatierra&theme=dark&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>
-	
-## 🐍 A Snake Eating my Contributions Graph
+
+ 
+## 🐍 Grafico de Contribunciones 
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+
